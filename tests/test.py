@@ -1,4 +1,4 @@
-import myFunction
+from mypackage import myFunction
 
 def test_top_n():
     """
