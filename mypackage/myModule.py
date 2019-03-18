@@ -23,3 +23,5 @@ def top_n(items, n):
 
     # return in descending order
     return top_n[::-1]
+
+print(top_n([8, 3, 2, 7, 4], 3))
